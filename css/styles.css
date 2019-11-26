@@ -7,6 +7,9 @@ h1{
   color: darkgray;
 }
 
+.arial {
+    font-family: Arial;
+}
 
 img{
   display: flex;
