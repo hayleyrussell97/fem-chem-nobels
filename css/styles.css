@@ -64,3 +64,9 @@ img{
   background-color: #4CAF50;
   color: black;
 }
+
+#contact_form {
+  max-width: 600px;
+  margin: 0px auto;
+
+}
