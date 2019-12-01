@@ -7,13 +7,12 @@ h1{
   color: darkgray;
 }
 
-
 img{
   display: flex;
   padding: 20px;
   margin: 0 auto;
   border-radius: 130px;
-}
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
