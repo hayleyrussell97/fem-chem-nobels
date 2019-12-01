@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2, h3, p{
   text-align: center;
 }
 
@@ -17,6 +17,17 @@ img{
   margin: 0 auto;
   border-radius: 130px;
 }
+
+
+ol{
+  align-items: center;
+  text-align: center;
+}
+
+li{
+  align-items: center;
+}
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
