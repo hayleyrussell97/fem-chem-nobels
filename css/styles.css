@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2, h3, p{
   text-align: center;
 }
 
@@ -14,9 +14,6 @@ img{
   border-radius: 130px;
 }
 
-p{
-  text-align: center;
-}
 
 ol{
   align-items: center;
